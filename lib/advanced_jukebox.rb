@@ -14,10 +14,7 @@
 
 def help
   #this method should be the same as in jukebox.rb
-
 end
-
-
 
 def list(my_songs)
   #this method is different! Collect the keys of the my_songs hash and 
